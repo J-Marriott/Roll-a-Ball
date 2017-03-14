@@ -13,3 +13,5 @@ To download
 ```
 $git clone git@github.com:J-Marriott/Roll-a-Ball.git
 ```
+
+<img src="http://i.imgur.com/2Z2ZyjJ.png">
